@@ -48,10 +48,6 @@ Utilização da API [viacep](https://viacep.com.br/) para preenchimento automát
 - Detectar interação do usuário com auxílio do `addEventListener`;
 - Inserir elementos HTML a partir do `innerHTML`.
 
-## **Funcionalidades**
-
-Para ter acesso ao projeto e tudo que ele possui basta clicar [neste link](https://rodrigoharder.github.io/uso-api/).
-
 ## **Como usar os arquivos?**
 
 - Inicialmente você precisa ter instalado em seu computador um editor de código-fonte, no meu caso eu utilizo o [Visual Studio Code](https://code.visualstudio.com/download). 
